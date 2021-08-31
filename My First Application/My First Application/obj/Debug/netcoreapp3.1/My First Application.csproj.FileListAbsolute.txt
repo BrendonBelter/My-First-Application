@@ -1,0 +1,14 @@
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.csproj.AssemblyReference.cache
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.AssemblyInfoInputs.cache
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.AssemblyInfo.cs
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.csproj.CoreCompileInputs.cache
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.exe
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.deps.json
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.runtimeconfig.json
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.runtimeconfig.dev.json
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.dll
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\bin\Debug\netcoreapp3.1\My First Application.pdb
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.dll
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.pdb
+C:\Users\brend\Documents\GitHub\My-First-Application\My First Application\My First Application\obj\Debug\netcoreapp3.1\My First Application.genruntimeconfig.cache
